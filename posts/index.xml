@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hsiang chi Chen</title>
-    <link>https://maggiechc.github.io//</link>
-    <description>Recent content on Hsiang chi Chen</description>
+    <title>Posts on Hsiang chi Chen</title>
+    <link>https://maggiechc.github.io//posts/</link>
+    <description>Recent content in Posts on Hsiang chi Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 22:06:41 +0800</lastBuildDate><atom:link href="https://maggiechc.github.io//index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 22:06:41 +0800</lastBuildDate><atom:link href="https://maggiechc.github.io//posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://maggiechc.github.io//posts/test/</link>
